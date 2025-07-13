@@ -361,3 +361,7 @@ Footer Section
     width: 96%;
     margin-bottom: 1.5rem;
 }
+
+.message_me>button{
+    padding: 1rem 1.8rem;
+}
